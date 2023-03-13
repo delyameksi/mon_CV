@@ -1,17 +1,19 @@
+---
+name: Delya Meksi
+mobile: 06 13 29 04 11
+mail: delya.meksi@gmail.com
+linkedin : https://www.linkedin.com/in/delya-meksi/
+---
+
 # Delya Meksi
 
-Developpeuse   
-Étudiante en première année à EPITECH   
+Développeuse
+
+Étudiante en première année à EPITECH
+
 Passionnée par l'informatique
 
-### Mon CV en version pdf est disponible ci-dessus!
-## Me contacter
-#### Télephone
-06 13 29 04 11
-#### Mail
-delya.meksi@gmail.com
-#### Linkedin
-[mon_linkedin](https://www.linkedin.com/in/delya-meksi/)
+**Mon CV en version pdf est disponible ci-dessus!**
 
 ## Expérience
 
@@ -19,38 +21,41 @@ delya.meksi@gmail.com
 Au sein du centre de loisir municipal, encadrement et animation de groupe de jeunes de toutes tranche d'age (4-5 ans, 6-8 ans, 8-10 ans et 10-13 ans)
 - Création et Organisation des activités
 - Animation
-Compétences développées : Adaptabilité, Travail en équipe
+
+**Compétences développées :** Adaptabilité, Travail en équipe
 
 ### Juillet 2022 - Médiathèque de Pierre Bénite
 Au sein de la médiathèque municipale, prise en charge des différents postes à l'occasion d'un job d'été
 - Accueil du public
 - Mise en rayon
 - Etiquetage des ouvrages
-Compétences développées : Rigueur, Travail d'équipe
+
+**Compétences développées :** Rigueur, Travail d'équipe
 
 ### Octobre 2018 - CIRIL GROUP Villeurbanne
 Dans le cadre du stage de 3ème, observation d'un entreprise de logiciel spécialisée dans les RH à destination des collectivités locales.
-- Découverte des métiers de :
-    - Web Designer
-    - Développeur web
-    - Chef de projet informatique
-Compétences développées : compréhension des différents rôles au sein d'une entreprise de logiciels
+Découverte des métiers de :
+  - Web Designer
+  - Développeur web
+  - Chef de projet informatique
+
+**Compétences développées :** compréhension des différents rôles au sein d'une entreprise de logiciels
 
 ### Juillet-Août 2017 et 2018 - ENS Lyon
 Découverte de la programmation lors d'un summer camp organisé par "Girls Can Code" sur [France IOI](http://www.france-ioi.org/)
 - Réalisation de projets en python 
 - Découverte d'Arduino et du microPython
-Compétences mises en oeuvre : Python, Programmation Microcontroleur
+
+**Compétences mises en oeuvre :** Python, Programmation Microcontroleur
 
 ## Formation
 ### 2022 - présent : Epitech
 Formation d'Expert en technologie de l'information
-Réalisation de projets sous forte contrainte    
-- [piscine Epitech](https://epitech.bj/piscine-epitech-informatique-innovation-tech-langage-c/)   
-- [pédagogie Epitech](https://www.epitech.eu/fr/pedagogie-projets/)
+Réalisation de projets sous forte contrainte :
+- [Piscine Epitech](https://epitech.bj/piscine-epitech-informatique-innovation-tech-langage-c/)
+- [Pédagogie Epitech](https://www.epitech.eu/fr/pedagogie-projets/)
 
-Compétences développées : Respect des deadlines, Motivation, Curiosité
-
+**Compétences développées :** Respect des deadlines, Motivation, Curiosité
 
 ### 2019-2022 : Lycée Assomption Bellevue
 Obtention du Baccalauréat : mention Très Bien
@@ -59,8 +64,7 @@ Obtention du Baccalauréat : mention Très Bien
 
 ### Informatique
 
-- Python
-- C Langage
+- Langages : Python, C
 - Suite Office
 - Github suite
 - Google tools
